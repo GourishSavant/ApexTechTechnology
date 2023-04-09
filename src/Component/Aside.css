@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.aside-container{
+   height: 100vh; 
+   width: 20%;
+   background-color: #c0c8d1;
+}
+.navbar{
+    position: relative;
+    top: 10%;
+    width: 100%;
+}
+.navitem{
+    height: 50px;
+    font-size: 25px;
+    display: flex;
+    padding-left: 30px;
+    align-items: center;
+    color: black;
+}
+
+
+.link{
+    display: flex;
+    color: brown;
+    transition: all 0.5s;
+}
+.link :hover{
+    background-color: rgb(219, 223, 227);
+    color:rgb(37, 203, 241);
+    transition: all 0.5s;
+}
+.active{
+
+    color: #0573f1;
+    background-color: #d9d9d9;
+    transition: all 0.5s;
+}
+

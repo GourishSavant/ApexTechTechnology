@@ -1,0 +1,88 @@
+.container{
+   width:80%;
+   height:100vh;
+   background-color: #1e1e1e;
+   overflow: hidden;
+}
+
+.sub1{
+    position: relative;
+    top:4%;
+    right:33%;
+}
+
+.sub1 h3{
+    margin-right: 10%;
+    margin-bottom: 1%;
+    color: #ffffff;
+}
+.sub1 select{
+    height: 35px;
+    width: 220px;
+    position: relative;
+    right: 8px;
+    border-radius: 3px;
+    background-color: #333333;
+    color: #5c5c5c;
+    border-color: rgb(64, 139, 160);
+    padding-left: 20px;
+    
+}
+.sen{
+    color: #5c5c5c;
+}
+.table1{
+    position: relative;
+    right: 20%;
+    top:7%;
+    width: 116%;
+}
+
+
+
+th{
+   padding: 10px;
+   background-color: #333333;
+   color: rgb(255, 255, 255);
+   font-size: 14px;
+}
+
+td{
+    padding: 5px;
+    background-color: #d9d9d9;
+}
+
+.select{
+    width: 175px;
+    height: 33px;
+}
+
+.btns{
+    position: absolute;
+    left: 75%;
+    bottom: 30px;  
+}
+
+.btns button{
+    width: 120px;
+    height: 35px;
+    margin-left: 21px;
+   
+    border-radius: 5px;
+    color: #ffffff;
+    border: none;
+}
+
+.Start{
+    background-color: rgb(38, 207, 38);
+}
+
+.Stop{
+    background-color:rgb(40, 163, 212);
+}
+
+.chart {
+    width: 50%;
+    background-color: blue;
+ 
+}

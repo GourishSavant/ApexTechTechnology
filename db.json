@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "ScenerioName": "test scenario",
+      "ScenerioTime": "9",
+      "count": 1,
+      "id": 1
+    },
+    {
+      "ScenerioName": "my scenario",
+      "ScenerioTime": "7",
+      "count": 1,
+      "id": 2
+    }
+  ],
+  "addData": [
+    {
+      "ScenerioName": "test scenario",
+      "VehicleName": "Bus",
+      "Speed": "78",
+      "positionX": "54",
+      "positionY": "78",
+      "Direction": "Upwards",
+      "id": 1
+    },
+    {
+      "ScenerioName": "my scenario",
+      "VehicleName": "car",
+      "Speed": "6",
+      "positionX": "98",
+      "positionY": "56",
+      "Direction": "Downwards",
+      "id": 2
+    }
+  ]
+}
